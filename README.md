@@ -38,7 +38,6 @@ openpyxl로 스타일링된 엑셀 파일 출력
 
 ## 실행 방법
 ```bash
-git clone https://github.com/본인아이디/meeting-minutes-automation.git
 cd meeting-minutes-automation
 pip install -r requirements.txt
 # .env 파일에 OPENAI_API_KEY 설정 후
